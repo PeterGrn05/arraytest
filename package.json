@@ -2,7 +2,6 @@
   "name": "arraytest",
   "version": "1.0.0",
   "main": "arrayUtils.js",
-  
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
@@ -11,7 +10,7 @@
   "description": "",
   "type": "module",
   "devDependencies": {
-    "fast-check": "^4.0.0",
+    "fast-check": "^4.0.1",
     "jest": "^29.7.0",
     "nock": "^14.0.1"
   }
